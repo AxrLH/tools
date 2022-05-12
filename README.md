@@ -1,6 +1,6 @@
 # tools
-自用工具合集
-目录
+# 自用工具合集
+# 目录
 1.renameFile.py -- > 改名字的
 2.yolo2coco.py  --> yolo格式数据集改为coco格式，支持yolov3-5
 3.flir2yolo.py--> flir v2数据集改为yolo格式，支持yolov3-5
