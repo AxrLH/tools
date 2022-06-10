@@ -10,4 +10,8 @@
 
 5.avi2jpg.py --> 视频抽帧转图片
 
+6.同时采集两款相机输出视频 --> Windows下同时打开两个usb相机并采集视频
+
+7.data augmentation --> 常用方法：mosaic， cutmix
+
 持续更新！！！大部分代码自写自用，各位大佬麻烦点个star，有问题都会尽量解答的！
